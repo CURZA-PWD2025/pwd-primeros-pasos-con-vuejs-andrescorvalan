@@ -4,7 +4,7 @@ import Formulario from './components/Formulario.vue'
 
 <template>
 
-  <Formulario msg="Formulario para el TP1"/>
+  <Formulario msg="Crear nuevo usuario"/>
 
 </template>
 
